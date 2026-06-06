@@ -15,7 +15,6 @@
         android:text="Piatok"
         android:textColor="#8B8B9A"
         android:textSize="13sp"
-        android:letterSpacing="0.08"
         android:textAllCaps="true" />
 
     <TextView
@@ -42,7 +41,6 @@
         android:text="Meniny má"
         android:textColor="#8B8B9A"
         android:textSize="12sp"
-        android:letterSpacing="0.06"
         android:textAllCaps="true" />
 
     <TextView
