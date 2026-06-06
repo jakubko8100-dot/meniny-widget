@@ -8,4 +8,5 @@
     android:initialLayout="@layout/widget_meniny"
     android:previewLayout="@layout/widget_meniny"
     android:resizeMode="horizontal|vertical"
-    android:widgetCategory="home_screen" />
+    android:widgetCategory="home_screen"
+    android:description="@string/app_name" />
